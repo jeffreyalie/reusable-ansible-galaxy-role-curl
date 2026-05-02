@@ -1,0 +1,3 @@
+---
+curl_package: curl
+curl_state: present
